@@ -23,7 +23,7 @@ AI Engineer | Machine Learning | Computer Vision | LLMs
 ### ⚡ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,js,html,css,git,vscode"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,js,html,css,git,vscode,cpp,arduino,docker,mysql,linux,github"/>
 </p>
 
 ---
