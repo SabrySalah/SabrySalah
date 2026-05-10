@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Sabry Salah 👋
 
-<!--
-**SabrySalah/SabrySalah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer passionate about building intelligent systems and exploring the future of Artificial Intelligence.
 
-Here are some ideas to get you started:
+I work with Machine Learning, Computer Vision, LLMs, RAG systems, and AI automation technologies. I enjoy creating smart solutions that combine software, AI, and embedded systems to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 What I'm Good At
+- Machine Learning & Deep Learning
+- Computer Vision
+- YOLO & OpenCV
+- LLMs, RAG & LangChain
+- Python Development
+- AI Automation
+- Arduino & IoT Systems
+
+## 🎯 Interests
+Artificial Intelligence • Generative AI • Intelligent Systems • Robotics • Automation • Embedded AI
