@@ -1,17 +1,16 @@
-# Hi, I'm Sabry Salah 👋
+# Hey there 👋 I'm Sabry Salah
 
-AI Engineer passionate about building intelligent systems and exploring the future of Artificial Intelligence.
+AI Engineer focused on developing intelligent and scalable AI systems.
 
-I work with Machine Learning, Computer Vision, LLMs, RAG systems, and AI automation technologies. I enjoy creating smart solutions that combine software, AI, and embedded systems to solve real-world problems.
+Passionate about Machine Learning, Computer Vision, LLMs, and AI-driven automation. I enjoy learning new technologies, building smart solutions, and turning ideas into real-world applications.
 
-## 💡 What I'm Good At
+## 🧠 Expertise
 - Machine Learning & Deep Learning
-- Computer Vision
-- YOLO & OpenCV
-- LLMs, RAG & LangChain
-- Python Development
-- AI Automation
-- Arduino & IoT Systems
+- Computer Vision & YOLO
+- LLM Applications & RAG
+- LangChain
+- Python & AI Development
+- Embedded Systems & IoT
 
-## 🎯 Interests
-Artificial Intelligence • Generative AI • Intelligent Systems • Robotics • Automation • Embedded AI
+## 🚀 Interests
+Artificial Intelligence • Generative AI • Smart Automation • Robotics • AI Research • Intelligent Systems
